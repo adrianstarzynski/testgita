@@ -4,3 +4,8 @@ bla bla bla
 google.pl
 
 logowanie ms
+
+
+
+
+przypomnienie hasła
